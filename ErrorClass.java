@@ -1,6 +1,6 @@
 package TestDecember;
 
-publik claszs ErrorClass {
+public class ErrorClass {
 	public static void main(String[] args) {
 		System.out.println("Hello world!");
 	}
